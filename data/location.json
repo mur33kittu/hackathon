@@ -1,0 +1,2367 @@
+{
+    "assetName": "Store Pick-Up Traffic Awareness",
+    "assetId": "SPTA_HIS",
+    "assetVersion": "20211016",
+    "transactionId": 1634382032919,
+    "assetConfig": {
+        "locationTimeZone": "America/New_York"
+    },
+    "assetDetails": {
+        "instore": [
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "00:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "01:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "02:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "03:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "04:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "05:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "06:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "07:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "08:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "09:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "10:00",
+                "busyness": "1",
+                "busynessMetric": 0.27
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "11:00",
+                "busyness": "1",
+                "busynessMetric": 0.33
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "12:00",
+                "busyness": "1",
+                "busynessMetric": 0.2
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "13:00",
+                "busyness": "1",
+                "busynessMetric": 0.23
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "14:00",
+                "busyness": "2",
+                "busynessMetric": 0.43
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "15:00",
+                "busyness": "2",
+                "busynessMetric": 0.57
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "16:00",
+                "busyness": "1",
+                "busynessMetric": 0.33
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "17:00",
+                "busyness": "2",
+                "busynessMetric": 0.47
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "18:00",
+                "busyness": "2",
+                "busynessMetric": 0.47
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "19:00",
+                "busyness": "2",
+                "busynessMetric": 0.5
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "20:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "21:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "22:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "23:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "00:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "01:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "02:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "03:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "04:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "05:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "06:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "07:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "08:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "09:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "10:00",
+                "busyness": "2",
+                "busynessMetric": 0.5
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "11:00",
+                "busyness": "1",
+                "busynessMetric": 0.1
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "12:00",
+                "busyness": "1",
+                "busynessMetric": 0.27
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "13:00",
+                "busyness": "1",
+                "busynessMetric": 0.33
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "14:00",
+                "busyness": "1",
+                "busynessMetric": 0.17
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "15:00",
+                "busyness": "1",
+                "busynessMetric": 0.3
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "16:00",
+                "busyness": "2",
+                "busynessMetric": 0.6
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "17:00",
+                "busyness": "3",
+                "busynessMetric": 0.7
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "18:00",
+                "busyness": "2",
+                "busynessMetric": 0.47
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "19:00",
+                "busyness": "1",
+                "busynessMetric": 0.3
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "20:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "21:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "22:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "23:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "00:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "01:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "02:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "03:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "04:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "05:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "06:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "07:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "08:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "09:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "10:00",
+                "busyness": "1",
+                "busynessMetric": 0.17
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "11:00",
+                "busyness": "2",
+                "busynessMetric": 0.47
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "12:00",
+                "busyness": "2",
+                "busynessMetric": 0.43
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "13:00",
+                "busyness": "1",
+                "busynessMetric": 0.27
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "14:00",
+                "busyness": "1",
+                "busynessMetric": 0.17
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "15:00",
+                "busyness": "1",
+                "busynessMetric": 0.23
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "16:00",
+                "busyness": "1",
+                "busynessMetric": 0.37
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "17:00",
+                "busyness": "2",
+                "busynessMetric": 0.57
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "18:00",
+                "busyness": "3",
+                "busynessMetric": 0.67
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "19:00",
+                "busyness": "1",
+                "busynessMetric": 0.37
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "20:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "21:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "22:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "23:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "00:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "01:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "02:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "03:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "04:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "05:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "06:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "07:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "08:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "09:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "10:00",
+                "busyness": "1",
+                "busynessMetric": 0.27
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "11:00",
+                "busyness": "1",
+                "busynessMetric": 0.17
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "12:00",
+                "busyness": "2",
+                "busynessMetric": 0.57
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "13:00",
+                "busyness": "2",
+                "busynessMetric": 0.53
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "14:00",
+                "busyness": "1",
+                "busynessMetric": 0.33
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "15:00",
+                "busyness": "2",
+                "busynessMetric": 0.53
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "16:00",
+                "busyness": "1",
+                "busynessMetric": 0.4
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "17:00",
+                "busyness": "2",
+                "busynessMetric": 0.43
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "18:00",
+                "busyness": "3",
+                "busynessMetric": 0.67
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "19:00",
+                "busyness": "1",
+                "busynessMetric": 0.3
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "20:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "21:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "22:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "23:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "00:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "01:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "02:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "03:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "04:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "05:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "06:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "07:00",
+                "busyness": "1",
+                "busynessMetric": 0.07
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "08:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "09:00",
+                "busyness": "1",
+                "busynessMetric": 0.07
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "10:00",
+                "busyness": "1",
+                "busynessMetric": 0.4
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "11:00",
+                "busyness": "3",
+                "busynessMetric": 0.63
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "12:00",
+                "busyness": "3",
+                "busynessMetric": 0.8
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "13:00",
+                "busyness": "3",
+                "busynessMetric": 0.63
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "14:00",
+                "busyness": "1",
+                "busynessMetric": 0.27
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "15:00",
+                "busyness": "1",
+                "busynessMetric": 0.4
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "16:00",
+                "busyness": "2",
+                "busynessMetric": 0.53
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "17:00",
+                "busyness": "4",
+                "busynessMetric": 1
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "18:00",
+                "busyness": "2",
+                "busynessMetric": 0.5
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "19:00",
+                "busyness": "2",
+                "busynessMetric": 0.6
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "20:00",
+                "busyness": "1",
+                "busynessMetric": 0.07
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "21:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "22:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "23:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "00:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "01:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "02:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "03:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "04:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "05:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "06:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "07:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "08:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "09:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "10:00",
+                "busyness": "2",
+                "busynessMetric": 0.6
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "11:00",
+                "busyness": "2",
+                "busynessMetric": 0.5
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "12:00",
+                "busyness": "1",
+                "busynessMetric": 0.4
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "13:00",
+                "busyness": "1",
+                "busynessMetric": 0.23
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "14:00",
+                "busyness": "3",
+                "busynessMetric": 0.77
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "15:00",
+                "busyness": "2",
+                "busynessMetric": 0.47
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "16:00",
+                "busyness": "4",
+                "busynessMetric": 0.83
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "17:00",
+                "busyness": "1",
+                "busynessMetric": 0.37
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "18:00",
+                "busyness": "3",
+                "busynessMetric": 0.63
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "19:00",
+                "busyness": "1",
+                "busynessMetric": 0.27
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "20:00",
+                "busyness": "1",
+                "busynessMetric": 0.07
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "21:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "22:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "23:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "00:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "01:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "02:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "03:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "04:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "05:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "06:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "07:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "08:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "09:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "10:00",
+                "busyness": "2",
+                "busynessMetric": 0.57
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "11:00",
+                "busyness": "2",
+                "busynessMetric": 0.43
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "12:00",
+                "busyness": "1",
+                "busynessMetric": 0.37
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "13:00",
+                "busyness": "2",
+                "busynessMetric": 0.53
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "14:00",
+                "busyness": "2",
+                "busynessMetric": 0.6
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "15:00",
+                "busyness": "2",
+                "busynessMetric": 0.6
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "16:00",
+                "busyness": "2",
+                "busynessMetric": 0.43
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "17:00",
+                "busyness": "1",
+                "busynessMetric": 0.37
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "18:00",
+                "busyness": "1",
+                "busynessMetric": 0.27
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "19:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "20:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "21:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "22:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "23:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            }
+        ],
+        "curbside": [
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "00:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "01:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "02:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "03:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "04:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "05:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "06:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "07:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "08:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "09:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "10:00",
+                "busyness": "2",
+                "busynessMetric": 0.46
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "11:00",
+                "busyness": "1",
+                "busynessMetric": 0.15
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "12:00",
+                "busyness": "2",
+                "busynessMetric": 0.54
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "13:00",
+                "busyness": "1",
+                "busynessMetric": 0.31
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "14:00",
+                "busyness": "1",
+                "busynessMetric": 0.38
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "15:00",
+                "busyness": "1",
+                "busynessMetric": 0.31
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "16:00",
+                "busyness": "2",
+                "busynessMetric": 0.46
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "17:00",
+                "busyness": "1",
+                "busynessMetric": 0.38
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "18:00",
+                "busyness": "1",
+                "busynessMetric": 0.23
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "19:00",
+                "busyness": "2",
+                "busynessMetric": 0.46
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "20:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "21:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "22:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 1,
+                "hourOfDay": "23:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "00:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "01:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "02:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "03:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "04:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "05:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "06:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "07:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "08:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "09:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "10:00",
+                "busyness": "2",
+                "busynessMetric": 0.46
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "11:00",
+                "busyness": "1",
+                "busynessMetric": 0.31
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "12:00",
+                "busyness": "1",
+                "busynessMetric": 0.38
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "13:00",
+                "busyness": "1",
+                "busynessMetric": 0.38
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "14:00",
+                "busyness": "1",
+                "busynessMetric": 0.38
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "15:00",
+                "busyness": "1",
+                "busynessMetric": 0.23
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "16:00",
+                "busyness": "1",
+                "busynessMetric": 0.38
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "17:00",
+                "busyness": "3",
+                "busynessMetric": 0.77
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "18:00",
+                "busyness": "1",
+                "busynessMetric": 0.23
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "19:00",
+                "busyness": "2",
+                "busynessMetric": 0.46
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "20:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "21:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "22:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 2,
+                "hourOfDay": "23:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "00:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "01:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "02:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "03:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "04:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "05:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "06:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "07:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "08:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "09:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "10:00",
+                "busyness": "2",
+                "busynessMetric": 0.46
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "11:00",
+                "busyness": "1",
+                "busynessMetric": 0.38
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "12:00",
+                "busyness": "1",
+                "busynessMetric": 0.23
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "13:00",
+                "busyness": "3",
+                "busynessMetric": 0.62
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "14:00",
+                "busyness": "1",
+                "busynessMetric": 0.31
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "15:00",
+                "busyness": "2",
+                "busynessMetric": 0.54
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "16:00",
+                "busyness": "1",
+                "busynessMetric": 0.23
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "17:00",
+                "busyness": "1",
+                "busynessMetric": 0.38
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "18:00",
+                "busyness": "1",
+                "busynessMetric": 0.31
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "19:00",
+                "busyness": "1",
+                "busynessMetric": 0.31
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "20:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "21:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "22:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 3,
+                "hourOfDay": "23:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "00:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "01:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "02:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "03:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "04:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "05:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "06:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "07:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "08:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "09:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "10:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "11:00",
+                "busyness": "1",
+                "busynessMetric": 0.23
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "12:00",
+                "busyness": "3",
+                "busynessMetric": 0.62
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "13:00",
+                "busyness": "2",
+                "busynessMetric": 0.46
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "14:00",
+                "busyness": "1",
+                "busynessMetric": 0.23
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "15:00",
+                "busyness": "1",
+                "busynessMetric": 0.15
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "16:00",
+                "busyness": "1",
+                "busynessMetric": 0.38
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "17:00",
+                "busyness": "3",
+                "busynessMetric": 0.62
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "18:00",
+                "busyness": "2",
+                "busynessMetric": 0.54
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "19:00",
+                "busyness": "1",
+                "busynessMetric": 0.31
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "20:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "21:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "22:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 4,
+                "hourOfDay": "23:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "00:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "01:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "02:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "03:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "04:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "05:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "06:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "07:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "08:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "09:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "10:00",
+                "busyness": "2",
+                "busynessMetric": 0.54
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "11:00",
+                "busyness": "1",
+                "busynessMetric": 0.31
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "12:00",
+                "busyness": "1",
+                "busynessMetric": 0.38
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "13:00",
+                "busyness": "1",
+                "busynessMetric": 0.38
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "14:00",
+                "busyness": "1",
+                "busynessMetric": 0.31
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "15:00",
+                "busyness": "3",
+                "busynessMetric": 0.69
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "16:00",
+                "busyness": "2",
+                "busynessMetric": 0.54
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "17:00",
+                "busyness": "3",
+                "busynessMetric": 0.77
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "18:00",
+                "busyness": "3",
+                "busynessMetric": 0.77
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "19:00",
+                "busyness": "1",
+                "busynessMetric": 0.38
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "20:00",
+                "busyness": "1",
+                "busynessMetric": 0.15
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "21:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "22:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 5,
+                "hourOfDay": "23:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "00:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "01:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "02:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "03:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "04:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "05:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "06:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "07:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "08:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "09:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "10:00",
+                "busyness": "2",
+                "busynessMetric": 0.46
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "11:00",
+                "busyness": "2",
+                "busynessMetric": 0.46
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "12:00",
+                "busyness": "4",
+                "busynessMetric": 1
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "13:00",
+                "busyness": "3",
+                "busynessMetric": 0.62
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "14:00",
+                "busyness": "3",
+                "busynessMetric": 0.69
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "15:00",
+                "busyness": "1",
+                "busynessMetric": 0.31
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "16:00",
+                "busyness": "3",
+                "busynessMetric": 0.62
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "17:00",
+                "busyness": "4",
+                "busynessMetric": 0.85
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "18:00",
+                "busyness": "3",
+                "busynessMetric": 0.69
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "19:00",
+                "busyness": "1",
+                "busynessMetric": 0.31
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "20:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "21:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "22:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 6,
+                "hourOfDay": "23:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "00:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "01:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "02:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "03:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "04:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "05:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "06:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "07:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "08:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "09:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "10:00",
+                "busyness": "2",
+                "busynessMetric": 0.46
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "11:00",
+                "busyness": "1",
+                "busynessMetric": 0.23
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "12:00",
+                "busyness": "1",
+                "busynessMetric": 0.38
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "13:00",
+                "busyness": "2",
+                "busynessMetric": 0.46
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "14:00",
+                "busyness": "2",
+                "busynessMetric": 0.54
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "15:00",
+                "busyness": "2",
+                "busynessMetric": 0.46
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "16:00",
+                "busyness": "2",
+                "busynessMetric": 0.46
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "17:00",
+                "busyness": "1",
+                "busynessMetric": 0.23
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "18:00",
+                "busyness": "2",
+                "busynessMetric": 0.46
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "19:00",
+                "busyness": "1",
+                "busynessMetric": 0.15
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "20:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "21:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "22:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            },
+            {
+                "locationId": "484",
+                "dayOfWeek": 7,
+                "hourOfDay": "23:00",
+                "busyness": "1",
+                "busynessMetric": 0
+            }
+        ]
+    }
+}

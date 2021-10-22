@@ -1,0 +1,23 @@
+ui - react
+
+swetha(html/css)/jyothi/murthy
+
+api
+
+anshu/jyothi/murthy
+
+database
+
+priya/jyothi/anshu
+
+MQ
+murthy
+
+
+infra
+murthy/anshu
+
+
+we will use containerized app. use kuberentes as micro services architecture.
+
+https://docs.google.com/drawings/d/1-0z1_yUpg0qwxltFuJEeo3k-GHnR0Zq0RdJmzcupvy4/edit
