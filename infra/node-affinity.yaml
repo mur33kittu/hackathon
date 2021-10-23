@@ -1,0 +1,16 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: with-node-affinity
+spec:
+  template:
+    spec:
+      affinity:
+        nodeAffinity:
+          requiredDuringSchedulingIgnoredDuringExecution:
+            nodeSelectorTerms:
+              - matchExpressions:
+                  - key: ibm-cloud.kubernetes.io/worker-pool-id
+                    operator: In
+                    values:
+                      - c5osmm0f0ko53vicdt90-5d2fe3a
