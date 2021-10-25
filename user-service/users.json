@@ -1,0 +1,62 @@
+[
+    {
+        "userId": "user1",
+        "firstName": "Murthy",
+        "lastName": "Guruswamy",
+        "email": "mur33kittu@gmail.com",
+        "address1": "21 Auckland st",
+        "address2": "10-432",
+        "zipcode": "06042",
+        "state": "AZ",
+        "country": "USA",
+        "phoneNumber": "+1 22-222-2222"
+    },
+    {
+        "userId": "user2",
+        "firstName": "Priya",
+        "lastName": "Mohana",
+        "email": "priya.mohana@gmail.com",
+        "address1": "21 Buckland st",
+        "address2": "1-432",
+        "zipcode": "30003",
+        "state": "CT",
+        "country": "USA",
+        "phoneNumber": "+1 11-111-1111"
+    },
+    {
+        "userId": "user3",
+        "firstName": "Jyothi",
+        "lastName": "Gautam",
+        "email": "jyothi.gowtham@gmail.com",
+        "address1": "1 Pavilions dr",
+        "address2": "1-112",
+        "zipcode": "340001",
+        "state": "NC",
+        "country": "USA",
+        "phoneNumber": "+1 33-333-3333"
+    },
+    {
+        "userId": "user4",
+        "firstName": "AAA",
+        "lastName": "BBB",
+        "email": "AAA.BBBB@gmail.com",
+        "address1": "21 Auckland st",
+        "address2": "10-432",
+        "zipcode": "06042",
+        "state": "AZ",
+        "country": "USA",
+        "phoneNumber": "+1 222-222-2222"
+    },
+    {
+        "userId": "user5",
+        "firstName": "CCC",
+        "lastName": "DDDD",
+        "email": "CCC.DDDD@gmail.com",
+        "address1": "21 Auckland st",
+        "address2": "10-432",
+        "zipcode": "06042",
+        "state": "AZ",
+        "country": "USA",
+        "phoneNumber": "+1 222-222-2222"
+    }
+]
