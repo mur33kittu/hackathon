@@ -1,7 +1,7 @@
 const express = require ('express');
-const cartController = require('./cart-controller');
+const paymentController = require('./payment-controller');
 const router = express.Router ();
 
-router.get ('/cart', cartController.getCartItems);
+router.get ('/payments/:userId', paymentController.getPayments);
 
 module.exports = router;

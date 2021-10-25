@@ -5,6 +5,6 @@ const app = express ();
 
 app.use('/api', routes)
 
-app.listen (3001, function (req, res) {
-  console.log ('Cart app is running in port 3001');
+app.listen (3010, function (req, res) {
+  console.log ('Payment service is running in port 3010');
 });

@@ -1,7 +1,7 @@
 const express = require ('express');
-const cartController = require('./cart-controller');
+const userController = require('./user-controller');
 const router = express.Router ();
 
-router.get ('/cart', cartController.getCartItems);
+router.get ('/users/:userId', userController.getUsers);
 
 module.exports = router;
