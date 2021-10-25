@@ -1,0 +1,13 @@
+cd ui && npm install && cd ..
+cd cart-service && npm install && cd ..
+cd checkout-service && npm install && cd ..
+cd event-bus && npm install && cd ..
+cd notification-service && npm install && cd ..
+cd order-service && npm install && cd ..
+cd orderprocessing-service && npm install && cd ..
+cd orders-returns-service && npm install && cd ..
+cd payment-service && npm install && cd ..
+cd products-service && npm install && cd ..
+cd shipping-service && npm install && cd ..
+cd tracking-service && npm install && cd ..
+cd user-service && npm install && cd ..
