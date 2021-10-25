@@ -1,4 +1,4 @@
-cd ui && npm install && cd ..
+cd hackathon-ui && npm install && cd ..
 cd cart-service && npm install && cd ..
 cd checkout-service && npm install && cd ..
 cd event-bus && npm install && cd ..
