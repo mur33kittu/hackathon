@@ -1,0 +1,54 @@
+Have you prepared use case Process design?            
+          Yes. we have an architecture ready to present.(already slide)
+If Yes give summary of process design and its usability?
+          This microservices architecture allows for each service to scale or update using the deployment of service proxies 
+	      without disrupting other services in the application and enables the rapid, frequent and reliable delivery of large, complex applications.
+
+                Microservices Architecture
+                Application is broken into modular components
+                Application can be distributed across the clouds and datacenter
+                Adding new features only requires those individual microservice to be updated
+                Network services must be software-defined and run as a fabric for each microservice to connect to
+
+What are the different front-end systems which will be part of your use case design?
+   
+   We will use react and redux to design out front end portal.
+   
+Are the basic User interface design templates ready ?
+    We are still preparing it.
+    	 
+•If  yes, then share separate UI template design which has been created for each process activity?
+    will share sooner, we are still finalizing the screens.
+    
+•Have you created robust process level Architecture design ? If yes ,then does it include below components ?
+        
+	•Integration touch points present in the solution.
+	       a.) stateful microservices
+		   b.) ingress controllers
+		   c.) MQ's. Due to not available on ibmcloud for free, we will use NAT messaging which will also a containerized architecture.
+	•Deployment architecture of the entire solution. (on-prem/on-cloud)
+	       a.) on-cloud - ibm.
+		       blockers: due to number of services present in our architecture, we wanted to store our images in IBM container registry which will allow only 512MB of storage for free tier
+		   b.) if so, we will demonstrate in AWS or in localhost single cluster kubenetes.
+	•What are the list of components used in designing the architecture?
+	
+	       fill based on other teams.
+		   
+	•Which tech stack will be used for data storing and is it included in process architecture diagram?
+	
+	       a.) React
+		   b.) Redux
+		   c.) Nodejs
+		   d.) NAT messaging
+		   e.) dockers
+		   f.) kubernetes
+		   g.) bootstrap 5
+		   h.) mysql
+		   i.) mongodb
+	•What are the creative and innovative approach you will apply in the process design?
+	
+	       a.) a microservice architecture that will scale well and works independendly
+		   b.) effective use of RAM and CPU using containerization
+		   c.) HA
+	
+	
