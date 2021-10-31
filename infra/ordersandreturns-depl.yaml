@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: orders-returns-service-depl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: orders-returns-service
+  template:
+    metadata:
+      labels:
+        app: orders-returns-service
+    spec:
+      containers:
+        - name: orders-returns-service
+          image: mur33kittu/orders-returns-service:0.0.1
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: orders-returns-service-clusterip-srv
+spec:
+  selector:
+    app: orders-returns-service
+  ports:
+    - name: orders-returns-service
+      protocol: TCP
+      port: 3006
+      targetPort: 3006

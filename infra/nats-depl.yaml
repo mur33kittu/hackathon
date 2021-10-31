@@ -3,10 +3,10 @@ kind: Deployment
 metadata:
   name: nats-depl
 spec:
+  replicas: 1
   selector:
     matchLabels:
       app: nats
-  replicas: 1
   template:
     metadata:
       labels:
@@ -17,19 +17,19 @@ spec:
           image: nats-streaming:0.17.0
           args:
             [
-              "-p",
-              "42222",
-              "-m",
-              "8222",
-              "-hbi",
-              "5s",
-              "-hbt",
-              "5s",
-              "hbf",
-              "2",
-              "-SD",
-              "-cid",
-              "cart",
+              '-p',
+              '4222',
+              '-m',
+              '8222',
+              '-hbi',
+              '5s',
+              '-hbt',
+              '5s',
+              '-hbf',
+              '2',
+              '-SD',
+              '-cid',
+              'cart',
             ]
 ---
 apiVersion: v1

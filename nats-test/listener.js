@@ -1,22 +1,28 @@
 const nats = require ('node-nats-streaming');
+const {randomBytes} = require ('crypto');
+const Listener = require('./nats-listener');
 
-const stan = nats.connect ('cart', 'abc', {
+const stan = nats.connect ('cart', randomBytes (4).toString ('hex'), {
   url: 'http://localhost:4222',
 });
 
 stan.on ('connect', () => {
-  console.log ('Publisher connected to NATS');
+  console.log ('Listener connected to NATS');
 
-  const subscription = stan.subscribe ('cart:added');
-
-  subscription.on ('message', msg => {
-    const data = msg.getData ();
-    if (typeof data === 'string') {
-      console.log (
-        `Received Event #${msg.getSequence ()} with data ${JSON.parse (data)}`
-      );
-    }
+  stan.on ('close', () => {
+    console.log ('Nats connection closed!');
+    process.exit ();
   });
+
+  let listener = new Listener(stan, 'cart:added','cart-service-group');
+  listener.listen();
+  console.log(listener.onMessage());
+
+  
+  listener = new Listener(stan, 'cart:deleted','cart-service-group');
+  listener.listen();
+  console.log(listener.onMessage())
 });
 
 // kubectl port-forward nats-depl-pod 4222:4222
+// kubectl port-forward nats-depl-pod 8222:8222

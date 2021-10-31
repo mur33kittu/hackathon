@@ -7,13 +7,13 @@ metadata:
     nginx.ingress.kubernetes.io/use-regex: "true"
 spec:
   rules:
-    - host: products.com
+    - host: ordersandreturns.apps.oc1.example.com
       http:
         paths:
-          - path: /api/products
+          - path: /
             pathType: Prefix
             backend:
               service:
-                name: products-srv
+                name: orders-returns-srv
                 port:
                   number: 3006
